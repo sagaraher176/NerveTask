@@ -1,0 +1,14 @@
+/home/cdac/Sagar/TCPApplication/Server/TCPServer/bin/Debug/net8.0/TCPServer
+/home/cdac/Sagar/TCPApplication/Server/TCPServer/bin/Debug/net8.0/TCPServer.deps.json
+/home/cdac/Sagar/TCPApplication/Server/TCPServer/bin/Debug/net8.0/TCPServer.runtimeconfig.json
+/home/cdac/Sagar/TCPApplication/Server/TCPServer/bin/Debug/net8.0/TCPServer.dll
+/home/cdac/Sagar/TCPApplication/Server/TCPServer/bin/Debug/net8.0/TCPServer.pdb
+/home/cdac/Sagar/TCPApplication/Server/TCPServer/obj/Debug/net8.0/TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/cdac/Sagar/TCPApplication/Server/TCPServer/obj/Debug/net8.0/TCPServer.AssemblyInfoInputs.cache
+/home/cdac/Sagar/TCPApplication/Server/TCPServer/obj/Debug/net8.0/TCPServer.AssemblyInfo.cs
+/home/cdac/Sagar/TCPApplication/Server/TCPServer/obj/Debug/net8.0/TCPServer.csproj.CoreCompileInputs.cache
+/home/cdac/Sagar/TCPApplication/Server/TCPServer/obj/Debug/net8.0/TCPServer.dll
+/home/cdac/Sagar/TCPApplication/Server/TCPServer/obj/Debug/net8.0/refint/TCPServer.dll
+/home/cdac/Sagar/TCPApplication/Server/TCPServer/obj/Debug/net8.0/TCPServer.pdb
+/home/cdac/Sagar/TCPApplication/Server/TCPServer/obj/Debug/net8.0/TCPServer.genruntimeconfig.cache
+/home/cdac/Sagar/TCPApplication/Server/TCPServer/obj/Debug/net8.0/ref/TCPServer.dll
